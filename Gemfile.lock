@@ -45,7 +45,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  awesome_print (= 1.8.0)
+  awesome_print (~> 1.8)
   hashie
   octokit (~> 2.0)
   pry
